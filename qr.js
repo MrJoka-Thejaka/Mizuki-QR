@@ -7,7 +7,7 @@ Queen Amdi - Black Amda
 //thanks for blackamda
 const chalk = require('chalk');
 const {WAConnection} = require('@adiwajshing/baileys');
-const {StringSession} = require('./cobramain/');
+const {StringSession} = require('./session');
 const fs = require('fs');
 
 async function mizuki () {
