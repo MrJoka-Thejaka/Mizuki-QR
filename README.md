@@ -1,1 +1,1 @@
-# Mizuki-QR
+# Mizuki Termux Qr Session :- 
