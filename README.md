@@ -2,5 +2,5 @@
 
 ```₰ RUN THIS CODE ON TERMUX 💫```
 ```
-bash <(curl -L https://tinyurl.com/mizukitermux)
+bash <(curl -L https://tinyurl.com/comingsoon)
 ```
